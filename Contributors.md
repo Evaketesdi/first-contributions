@@ -71,6 +71,7 @@ happy# Contributors
 - [Benjamin Cha]
 - [Nolan Newman]
 - [Eli Vatsaas]
+- [Eva Ketesdi]
 - [Joseph Laity]
 - [chandu venna]
 - [Bryan Record]
